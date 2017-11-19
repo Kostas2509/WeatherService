@@ -1,0 +1,27 @@
+{
+  "name": "weather_service",
+  "version": "0.0.1",
+  "description": "a simple service, which shows forecast for selected period",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "gulp": "./node_modules/.bin/gulp",
+    "browser-sync": "./node_modules/.bin/browser-sync"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kostas2509/WeatherService.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "konstantin.karagashev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kostas2509/WeatherService/issues"
+  },
+  "homepage": "https://github.com/Kostas2509/WeatherService#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
